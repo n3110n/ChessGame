@@ -11,6 +11,6 @@ public class Board {
     }
 
     public int getSize(){
-        return SIZE;
+        return SIZE; 
     }
 }
